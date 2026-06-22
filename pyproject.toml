@@ -9,7 +9,7 @@ dependencies = [
     "opensearch-py==2.8.0",
     "torch>=2.0.0,<3.0.0",
     "transformers==4.45.2",
-    "python-dotenv==1.0.1",
+    "python-dotenv==1.2.2",
     "pinecone>=5.0,<6.0.0",
     "pandas>=2.2.3",
     "structlog>=25.2.0",
